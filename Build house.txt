@@ -2,4 +2,5 @@ A Purchase land
 B Build foundation
 C Build walls
 D Install roof
+E install electrical 
 
