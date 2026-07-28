@@ -4,3 +4,7 @@ C Build walls
 D Install roof
 E install electrical 
 F Install plumbing
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1a277a16e90065a92c96e21cf811a28b96c96e54
