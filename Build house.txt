@@ -3,4 +3,5 @@ B Build foundation
 C Build walls
 D Install roof
 E install electrical 
+F Install plumbing
 
